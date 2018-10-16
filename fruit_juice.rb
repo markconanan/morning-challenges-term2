@@ -22,9 +22,12 @@
 
 class Jug
     def initialize(capacity)
+        @capacity=capacity
     end
 
     def add(amount, type)
+        @amount=amount
+        @type=type
     end
 
     def pour(amount)
