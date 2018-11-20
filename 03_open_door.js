@@ -7,7 +7,6 @@ mocha 03_open_door.js
 */
 
 function openDoor(input) {
-    // Your code here
 
 }
 
